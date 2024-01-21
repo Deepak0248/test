@@ -1,7 +1,11 @@
-import React from 'react'
+import React from "react";
 
 export const Test = () => {
-  return (
-    <div>Test</div>
-  )
-}
+    return (
+        <>
+            <h1>Deepak</h1>
+            <h1>Kumar</h1>
+            <h1>Parashar</h1>
+        </>
+    );
+};
